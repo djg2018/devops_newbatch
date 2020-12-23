@@ -1,3 +1,0 @@
-# to review the CLI commands
-
-# to review git diff
